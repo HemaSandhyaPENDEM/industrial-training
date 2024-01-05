@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head><title>z index in css</title>
+    <style>
+        .a{
+            position: absolute;
+            height: 500px;
+            width: 500px;
+            background-color: red;
+            float: left;
+            z-index: 3;
+            bottom: 100px;
+            left: 50px;
+        }
+        .b{
+            position: absolute;
+            height: 500px;
+            width: 500px;
+            background-color: rgb(225, 255, 0);
+            float: left;
+            z-index: 2;
+            bottom: 50px;
+            left: 80px;
+        }
+        .c{
+            position: absolute;
+            height: 500px;
+            width: 500px;
+            background-color: rgb(0, 255, 30);
+            float: left;
+            z-index: 1;
+        }
+    </style>
+    </head>
+    <body>
+        <div class="a"></div>
+        <div class="b"></div>
+        <div class="c"></div>
+    </body>
+</html>
