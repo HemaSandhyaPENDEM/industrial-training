@@ -1,0 +1,45 @@
+.a{
+    height: 1000px;
+    width: 100%;
+    background-color: white;
+}
+.b{
+    height: 100px;
+    width: 74.9%;
+    float: right;
+    margin-top: 130px;
+    background-color: yellow;
+}
+.c{
+    height: 1000px;
+    width: 40%;
+    background-color: rgb(148, 252, 252);
+    border: 2px solid rgb(86, 73, 73);
+}
+.d{
+    height: 250px;
+    width: 30%;
+    background-color: white;
+    border: 2px solid white;
+    margin-top: 10%;
+    margin-left: 32%;
+}
+.e{
+    color: black;
+    font-size:  40px;
+    text-align: center;
+}
+#s2{
+    height: 30px;
+    width: 30px;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.f{
+    font-size: 30px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.q{
+    float: right;
+}
